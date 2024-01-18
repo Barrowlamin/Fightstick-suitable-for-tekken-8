@@ -1,2 +1,2 @@
 # laughing-octo-guacamole
-My own Fightstick
+This is my first model of a fightstick similar to a mixbox that is powered by the Arduino UNO.
